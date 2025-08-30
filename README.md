@@ -1,52 +1,48 @@
-# Swiggy-Clone
-A frontend-only Swiggy Clone built with HTML, CSS, and JavaScript. This project replicates the Swiggy landing page design with sliders, grocery section, and modern UI components.
+# 🍔 Swiggy-Clone
 
-🚀 Features
+A frontend-only **Swiggy Clone** built with **HTML, CSS, and JavaScript**.  
+This project replicates the Swiggy landing page design with sliders, grocery section, and modern UI components.
 
-• Responsive UI (desktop-focused)
+## 🚀 Features
 
-• Custom sliders for food items & restaurants
+- Desktop-focused UI  
+- Custom sliders for food items & restaurants  
+- Instamart-style grocery section  
+- Clean footer with navigation & social media links  
+- Interactive buttons & search bar  
 
-• Instamart-style grocery section
+## 🛠️ Tech Stack
 
-• Clean footer with navigation & social media links
+- **HTML5** – Structure  
+- **CSS3** – Styling & Layout  
+- **JavaScript** – Interactivity  
 
-• Interactive buttons & search bar
-
-🛠️ Tech Stack
-
-• HTML5 – Structure
-
-• CSS3 – Styling & Layout
-
-• JavaScript – Interactivity
-
-📂 Project Structure
+## 📂 Project Structure
+```bash
 Swiggy-Clone/
-│── index.html        # Main landing page
-│── style.css         # Stylesheet
-│── /assets           # Images, icons, logos
+├── index.html        # Main landing page
+├── style.css         # Stylesheet
+└── assets/           # Images, icons, logos
+```
 
-⚡ Setup & Run Locally
+## ⚡ Setup & Run Locally
 
 1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/swiggy-clone.git
+   cd swiggy-clone
+   ```
 
-git clone https://github.com/your-username/swiggy-clone.git
-cd swiggy-clone
+2. Open `index.html` in your browser.  
+   - If using VS Code: Right-click → **Open with Live Server**  
 
-2. Open index.html in your browser.
+## 🌍 Live Demo
 
-If using VS Code: Right-click → Open with Live Server
+The project is live at:  
+👉 [Swiggy Clone on Netlify](http://dittoswiggy.netlify.app/)  
 
-🌍 Live Demo
+## 👨‍💻 Author
 
-The project is live at:
-http://dittoswiggy.netlify.app/
-
-👨‍💻 Author
-
-Md Kashaf Raza
-
-GitHub : https://github.com/kashafraza
-
-LinkedIn : https://www.linkedin.com/in/md-kashaf-raza
+**Md Kashaf Raza**  
+- [GitHub](https://github.com/kashafraza)  
+- [LinkedIn](https://www.linkedin.com/in/md-kashaf-raza)  
